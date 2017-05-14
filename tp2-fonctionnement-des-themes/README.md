@@ -1,9 +1,9 @@
 tp 2 - Fonctionnement des thèmes
 ================================
 
-Objectif 
---------
-Adapter un thème, travailler avec les modèles de pages, la loop et les WP_Query.
+Objectifs
+---------
+Adapter un thème, travailler avec la Template hierarchy, la loop et les WP_Query.
 
 Instructions
 ------------
